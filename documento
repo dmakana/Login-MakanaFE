@@ -1,0 +1,15 @@
+ <link href='https://unpkg.com/boxicons@2.1.4/css/boxicons.min.css' rel='stylesheet'>  - Icones
+ <link rel="stylesheet" href="style.css"> - Comando ou linha css
+00:00 Projeto Tela de Login com HTML e CSS
+
+07:09 Crie um formulário de login com HTML e CSS que contenha campos de entrada
+
+12:52 Centralize o conteúdo usando o Flexbox
+
+16:38 A estilização de um formulário de login com CSS envolve o ajuste das propriedades de H1 
+
+19:34 Crie uma tela de login arredondada e visualmente atraente estilizando com CSS
+
+24:09 Ajuste o layout e o estilo de um formulário de login com Flexbox
+
+29:42 Crie  um botão personalizável, link de registro e efeito de desfoque de fundo
